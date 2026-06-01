@@ -160,7 +160,7 @@ WEATHER_API_KEY=your_weather_api_key
 Add your YouTube demo link here:
 
 ```text
-[https://youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/2Mx8aNDv3Lg)
+[https://youtube.com/watch?v=2Mx8aNDv3Lg]
 ```
 
 ---
