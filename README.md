@@ -118,7 +118,7 @@ agrimind-ai/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/agrimind-ai.git
+git clone https://github.com/ishl250/AgriMind.git
 cd agrimind-ai
 ```
 
@@ -153,25 +153,6 @@ WEATHER_API_KEY=your_weather_api_key
 ```
 
 ---
-
-## 📸 Screenshots
-
-### Dashboard
-
-Add screenshot here.
-
-### Disease Detection
-
-Add screenshot here.
-
-### Soil Analysis
-
-Add screenshot here.
-
-### Weather Forecast
-
-Add screenshot here.
-
 ---
 
 ## 🎥 Demo Video
@@ -179,7 +160,7 @@ Add screenshot here.
 Add your YouTube demo link here:
 
 ```text
-https://youtube.com/watch?v=YOUR_VIDEO_ID
+[https://youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/2Mx8aNDv3Lg)
 ```
 
 ---
@@ -198,6 +179,7 @@ https://youtube.com/watch?v=YOUR_VIDEO_ID
 ## 👥 Team
 
 Developed during the COODIC x MLH Gemini Hack Kigali Hackathon.
+by Ishimwe Jean Claude
 
 ---
 
